@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LuncherHAE</string>
+    <string name="mainName">HAE APP TEST</string>
+    <string name="cityName">CityName</string>
+    <string name="CountryName">Country</string>
+    <string name="tempreature">Temperature</string>
+    <string name="description">Description</string>
+</resources>
